@@ -4,7 +4,7 @@ So I wrote/forked/bought some code for this MEAN project, hoping could do a litt
 And after all, the best way of learning is doing, I'm pretty sure myself will benefit from this project as well.<br>
 
 # How can you make a commitment here?
-You are free to submit the PR to any repositories. No matter is code or documentation. I'll appreciate your commitment and time.<br>
+You are free to submit the PR to any repositories(of course, you need to fork it firstly). No matter is code or documentation. I'll appreciate your commitment and time.<br>
 
 # Is there any recommended repo?
 Em...No! Every repository is valuable to me. But you could pick any up according to your scenario.<br>
